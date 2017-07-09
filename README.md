@@ -6,10 +6,10 @@ Make sure to install this for every tutorial and project you do. If this doesn't
 
 To yank something left
 ```
-<div class="anything yank-left">Any element you want to ~~ruin~~ *decorate* your site with</div>
+<div class="anything yank-left">Any element you want break your site with</div>
 ```
 
 To yank something right
 ```
-<div class="anything yank-right">Any element you want to ~~ruin~~ *decorate* your site with</div>
+<div class="anything yank-right">Any element you want to break your site with</div>
 ```
